@@ -1,0 +1,79 @@
+body
+{
+    background-image: url("./background.png");
+
+    text-align: center;
+
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+
+    margin-top: 50px;
+}
+
+.button
+{
+    cursor: hand;
+}
+
+#logoContainer
+{
+    margin: 50px;
+}
+
+.captionContainer
+{
+    margin: 50px;
+}
+
+.section
+{
+    display: none;
+}
+
+.testName
+{
+    font-size: 32px;
+    margin: 12px;
+}
+.testCaption
+{
+    font-size: 24px;
+}
+
+.buttonContainer
+{
+    margin: 24px;
+}
+
+.question
+{
+    font-size: 30px;
+    margin: 24px;
+}
+
+.answer
+{
+    cursor: hand;
+}
+.answer:hover
+{
+    color: black;
+}
+
+a
+{
+    color: rgb(0, 17, 17);
+}
+a:hover
+{
+    color: rgb(200, 255, 255);
+}
+
+#resultsContainer
+{
+    margin: 30px;
+}
