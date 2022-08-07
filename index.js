@@ -55,6 +55,7 @@ function start()
 {
     goToNextSection();
     var backgroundMusic = new Audio('everytime.mp3');
+    backgroundMusic.loop=true;
     backgroundMusic.play();
 }
 
