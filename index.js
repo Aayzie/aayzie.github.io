@@ -58,6 +58,7 @@ function start()
     backgroundMusic.play();
 }
 
+var clickSound = new Audio('click.wav');
 function goToNextSection()
 {
     hideSection(sections[curSection]);
@@ -67,6 +68,7 @@ function goToNextSection()
     {
         showResults();
     }
+    clickSound.play();
 }
 
 function showResults()
@@ -77,7 +79,5 @@ function showResults()
 function answer(answerLetter)
 {
     answers += answerLetter + ",";
-    console.log(answers);
     goToNextSection();
-    console.log(sections[curSection]);
 }
