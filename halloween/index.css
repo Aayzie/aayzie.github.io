@@ -127,6 +127,21 @@ a:hover
     font-size: 32px;
 }
 
+.judgeName a:link
+{
+    text-decoration: none;
+    color: rgb(233, 170, 88);
+}
+.judgeName a:visited
+{
+    text-decoration: none;
+    color: rgb(233, 170, 88);
+}
+.judgeName a:hover
+{
+    color: rgb(219, 117, 34);
+}
+
 .submission
 {
     margin-top: 50px;
