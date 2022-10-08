@@ -26,7 +26,6 @@ const submissions =
     "Dean Hollyday",
     "DanTodd",
     "codcw",
-    "chance",
     "Carlaxo",
     "Cap'n Hentral",
     "Books",
