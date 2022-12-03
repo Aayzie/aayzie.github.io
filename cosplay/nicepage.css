@@ -38262,20 +38262,16 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 1149px;
+  width: 1148px;
   height: 210px;
-  margin: 42px auto 0;
+  margin: 42px -4px 0;
 }
 
 .u-header .u-logo-image-1 {
   width: 100%;
   height: 100%;
 }
-@media (max-width: 1199px) {
-  .u-header .u-image-1 {
-    width: 1149px;
-  }
-}
+
 
 
 

@@ -12,7 +12,7 @@
   height: 252px;
   filter: brightness(0.9);
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
-  margin: 61px 37px 0 auto;
+  margin: 61px auto 0 851px;
 }
 
 .u-section-1 .u-text-1 {
@@ -44,7 +44,7 @@
   height: 629px;
   box-shadow: -9px 5px 35px 5px rgba(255,255,255,0.15);
   text-shadow: -2px 0 0 rgba(0,0,0,0.15);
-  margin: 153px 37px 0 auto;
+  margin: 153px auto 0 769px;
 }
 
 .u-section-1 .u-image-3 {
@@ -60,7 +60,7 @@
   height: 629px;
   box-shadow: -9px 5px 35px 5px rgba(255,255,255,0.15);
   text-shadow: -2px 0 0 rgba(0,0,0,0.15);
-  margin: -629px 387px 0 auto;
+  margin: -629px auto 0 415px;
 }
 
 .u-section-1 .u-image-5 {
@@ -75,6 +75,34 @@
   .u-section-1 .u-sheet-1 {
     min-height: 1493px;
   }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 670px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 588px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 19px;
+  }
+
+  .u-section-1 .u-image-4 {
+    margin-left: 397px;
+  }
 }
 
 @media (max-width: 991px) {
@@ -82,8 +110,16 @@
     min-height: 1213px;
   }
 
+  .u-section-1 .u-image-1 {
+    margin-left: 450px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 368px;
+  }
+
   .u-section-1 .u-image-4 {
-    margin-right: 382px;
+    margin-left: 364px;
   }
 }
 
@@ -92,8 +128,16 @@
     min-height: 1191px;
   }
 
+  .u-section-1 .u-image-1 {
+    margin-left: 270px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 188px;
+  }
+
   .u-section-1 .u-image-4 {
-    margin-right: 202px;
+    margin-left: 184px;
   }
 }
 
@@ -102,19 +146,24 @@
     min-height: 1004px;
   }
 
+  .u-section-1 .u-image-1 {
+    margin-left: 70px;
+  }
+
   .u-section-1 .u-image-2 {
-    margin-right: 6px;
+    margin-left: 6px;
   }
 
   .u-section-1 .u-image-3 {
     width: 340px;
     height: 597px;
     margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-image-4 {
     margin-top: -597px;
-    margin-right: 2px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-image-5 {
